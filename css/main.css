@@ -1,0 +1,26 @@
+    header {
+      text-align: center;
+      background: #7FFFD4;
+      background-position:center;
+      background-size: cover;
+      color: white;
+      font-family: 'Fondamento', cursive;
+    }
+    article {
+      max-width: 400px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+
+    body{
+     background-image: url("https://cache.marriott.com/marriottassets/destinations/hero/new-york-city-destination.jpg?interpolation=progressive-bilinear");
+     background-position: center;
+     background-size:cover;
+    }
+    h3{
+    color:white;
+    font-family:VAG Rounded, serif;
+    }
+    .background-image{
+        width:100px;
+    }
